@@ -59,8 +59,6 @@ Contains:
 
 ---
 
-## Benchmark Approaches
-
 ### Bischoff Strategy
 
 File: `codes/Benchmarks/bischoff.py`
